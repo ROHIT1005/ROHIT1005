@@ -6,12 +6,12 @@
 
 I'm a **Full Stack Software Engineer** with a passion for building scalable healthcare solutions and robust software systems. Currently based in Columbia, MD, I specialize in leading engineering teams and architecting modern web applications that make a real impact.
 
-- 🔭 I'm currently working on **healthcare technology solutions** at Aidar Health
-- 🌱 I'm passionate about **machine learning**, **microservices architecture**, and **event-driven systems**
-- 👯 I love collaborating on **open-source projects** and **innovative healthcare tech**
-- 💬 Ask me about **full-stack development**, **system architecture**, and **team leadership**
-- 📫 How to reach me: **rshreeni@alumni.cmu.edu**
-- ⚡ Fun fact: I've helped secure **$1M in grants** for healthcare research!
+-  I'm currently working on **healthcare technology solutions** at Aidar Health
+-  I'm passionate about **machine learning**, **microservices architecture**, and **event-driven systems**
+-  I love collaborating on **open-source projects** and **innovative healthcare tech**
+-  Ask me about **full-stack development**, **system architecture**, and **team leadership**
+-  How to reach me: **rshreeni@alumni.cmu.edu**
+-  Fun fact: I've helped secure **$1M in grants** for healthcare research!
 
 ## 🎓 Education
 
@@ -23,14 +23,14 @@ I'm a **Full Stack Software Engineer** with a passion for building scalable heal
 
 ## 💼 Professional Experience
 
-### 🏥 **Aidar Health, Inc.** - Full Stack Software Engineer (Apr 2023 – Feb 2025)
+###  **Aidar Health, Inc.** - Full Stack Software Engineer (Apr 2023 – Feb 2025)
 - Led a team of **3 engineers** in developing healthcare dashboards
 - **Migrated legacy Java backend** to modern NodeJS/Express with **zero downtime**
 - Designed **event-driven architecture** reducing transmission time by **50%**
 - Developed proprietary **health-index ML model** (Random Forest) - **Patent Pending**
 - Managed **400+ subject study** with BARDA, securing **$1M in grants**
 
-### 💻 **Hewlett-Packard Enterprise** - Systems/Software Engineer II (Jan 2019 - Jul 2021)
+###  **Hewlett-Packard Enterprise** - Systems/Software Engineer II (Jan 2019 - Jul 2021)
 - Developed **Java Springboot webapps** for HPE OneView platform
 - Built comprehensive **regression test suite** with Robot Framework (140 daily tests)
 - Enhanced **2-factor authentication** securing **1M+ users**
@@ -68,38 +68,26 @@ I'm a **Full Stack Software Engineer** with a passion for building scalable heal
 
 ## 🏆 Featured Projects
 
-### 🏥 **Healthcare Monitoring Platform**
+### **Healthcare Monitoring Platform**
 - Built **event-driven architecture** integrating MouthLab medical devices
 - Developed **ML-powered health index** using Random Forest algorithm
 - **Tech Stack:** NodeJS, React, AWS, Machine Learning
 - **Impact:** Secured $1M research grant, 400+ subjects studied
 
-### 🛒 **Syndication Service for Surefront**
-- Designed **omnichannel product publication service**
+### **Syndication Service for Surefront**
+- Designed an **omnichannel product publication service**
 - Reduced time-to-market by **75%**
 - **Tech Stack:** Django, React, TypeScript, AWS Serverless
 - **Role:** Software Architect, Scrum Master, Developer
 
-### 🍃 **Leaf Recognition AI Model**
+### **Leaf Recognition AI Model**
 - CNN model for **leaf identification and localization**
 - Leveraged **SSD MobileNet v2** architecture
 - **Tech Stack:** Python, TensorFlow, Pandas, NumPy
 - **Achievement:** Real-time object detection capability
-
-## 📊 GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROHIT1005&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHIT1005&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitshreenivas)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHIT1005)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshreeni@alumni.cmu.edu)
-
----
-
-💡 **"Building the future of healthcare through innovative software solutions"**
-
-⭐️ From [ROHIT1005](https://github.com/ROHIT1005)
