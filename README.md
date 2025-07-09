@@ -15,11 +15,11 @@ I'm a **Full Stack Software Engineer** with a strong focus on building real-time
 
 ## 🎓 Education
 
-**Carnegie Mellon University** — Master of Software Engineering (3.70/4.00) | Dec 2022  
+**Carnegie Mellon University** — Master of Software Engineering | Dec 2022  
 - TA for *Software Engineering for Startups* & *Quality Assurance*  
 - Research Assistant, TEEL Lab (School of Computer Science)
 
-**National Institute of Engineering, India** — B.E. Electronics & Communications (8.30/10.0) | Jun 2019
+**National Institute of Engineering, India** — B.E. Electronics & Communications | Jun 2019
 
 ## 💼 Professional Experience
 
@@ -72,11 +72,6 @@ I'm a **Full Stack Software Engineer** with a strong focus on building real-time
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🏆 Featured Projects
-
-### **Healthcare Monitoring Platform (Aidar Health)**
-- Built secure, serverless infrastructure for real-time medical device integration (MouthLab)
-- Trained & deployed a Random Forest–based **ML health-index model**
-- **Tech Stack:** AWS, NodeJS, React, Python, Machine Learning
 
 ### **Syndication Service for Surefront**
 - Designed a complete **product syndication platform** to automate omnichannel distribution
