@@ -11,13 +11,11 @@ I'm a **Full Stack Software Engineer** with expertise in building scalable, real
 - Passionate about **event-driven microservices**, **cloud infrastructure**, and **high-performance ETL pipelines**
 - Always open to **innovative collaborations** and **impactful projects**
 - Reach me at: **rshreeni@alumni.cmu.edu**
-- Fun fact: Led development of systems processing **20,000+ real-time energy nodes** across North America
 
 ## 🎓 Education
 
 **Carnegie Mellon University** — Master of Software Engineering | Dec 2022  
 - GPA: 3.70/4.00
-- Capstone Project: Syndication Service for Surefront (1-year collaboration)
 
 **National Institute of Engineering, India** — B.E. Electronics & Communications | Jun 2019
 - GPA: 8.25/10.00
