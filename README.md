@@ -108,6 +108,6 @@ I'm a **Full Stack Software Engineer** with expertise in building scalable, real
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHIT1005)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshreeni@alumni.cmu.edu)
 
-[![Resume](https://img.shields.io/badge/📄%20Resume-Google%20Drive-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Bi9kis-HoaV-broXqZMdZ4VLDlhcFUmF/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Google%20Drive-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1M0wxdD_qKz8qPRSpEWs5PfydOG9JbC_V/view?usp=sharing)
 
 ---
